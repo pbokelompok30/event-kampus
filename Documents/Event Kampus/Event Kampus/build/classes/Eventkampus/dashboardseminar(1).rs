@@ -1,0 +1,2 @@
+Eventkampus.dashboardseminar
+Eventkampus.dashboardseminar$1
